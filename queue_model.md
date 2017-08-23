@@ -42,3 +42,4 @@ else
     end
     P0=(sum+(n^n)*(m-n+1))/(factorial(n))^(-1)      %p0表示排队模型M/M/n/m中，饥饿率
 end
+## nice
